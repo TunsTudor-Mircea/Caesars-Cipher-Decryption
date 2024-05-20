@@ -1,6 +1,6 @@
 # Caesar's Cipher Decryption
 
-### Problem Description
+### Description
 Using frequency analysis to break Caesar’s Cypher.
 
 This is a brute force method that tests all the possible displacements and returns the most likely decryption of a text.
